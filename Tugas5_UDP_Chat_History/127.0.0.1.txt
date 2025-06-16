@@ -1,0 +1,3 @@
+Client: halo mas iz
+Server: halo juga mas client
+Client: quit
